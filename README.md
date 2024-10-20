@@ -1,6 +1,6 @@
 # tugas_2
 
-A new Flutter project.
+Material Design Project Project 20230801327 Herlan Jaelani KJ301 CIE511 Pemrograman Mobile
 
 ## Getting Started
 
